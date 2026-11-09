@@ -1,0 +1,11 @@
+# Datos (contienen información personal de afiliados, no deben subirse)
+*.csv
+*.xlsx
+*.xls
+
+# Entorno / IDE
+.idea/
+__pycache__/
+*.pyc
+.venv/
+venv/
